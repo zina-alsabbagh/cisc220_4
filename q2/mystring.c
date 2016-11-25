@@ -1,3 +1,5 @@
+# Rita Alsattah 10154610
+# Zina Al-Sabbagh 10161380
  
 #include <stdio.h>
 #include <string.h>
