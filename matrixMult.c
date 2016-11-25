@@ -1,3 +1,6 @@
+# Rita Alsattah 10154610
+# Zina Al-Sabbagh 10161380
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
